@@ -17,7 +17,7 @@ A version of the frame for a regular extrusion K3 and a version for the Hula gan
 
 ## Hula
 
-The Hula ganty is sold by Northprint3D:
+The Hula gantry is sold by Northprint3D:
 
 - [Hula Halo for Annex Engineering K3 (complete set)](https://northprint3d.ca/product/hula-halo-for-annex-engineering-k3-complete-set/)
 
